@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "A full-stack, responsive task management platform supporting project columns, priority levels, clean editing interfaces, and secure user authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
